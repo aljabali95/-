@@ -1,0 +1,19 @@
+
+name: carwash_app_mab_albab_modern
+description: Car Wash App
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  image_picker: ^1.0.4
+  pdf: ^3.10.7
+  printing: ^5.12.0
+
+flutter:
+  uses-material-design: true
